@@ -16,7 +16,7 @@ src="https://img.shields.io/github/followers/ nv-Ha?logo=github&style=for-the-ba
 
 ### Skills
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=nv-Ha&theme=highcontrast&hide_border=true&mode=weekly)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=nv-Ha&theme=github-dark-blue&hide_border=true&mode=weekly)](https://git.io/streak-stats)
 
 ### Socials
 
